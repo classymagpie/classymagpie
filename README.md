@@ -11,7 +11,7 @@ Hi, I'm Porfirio, and this is my GitHub page. I recently defended my dissertatio
 
 🔭 I’m currently working on learning these languages along with their applications ...
 
-<details>
+<details open>
 <summary>Coding Languages I am interested in learning more about</summary>
 
 | Rank | Languages |
