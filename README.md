@@ -12,13 +12,19 @@ Hi, I'm Porfirio, and this is my GitHub page. I recently defended my dissertatio
 🔭 I’m currently working on learning these languages along with their applications ...
 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>Coding Languages I am interested in learning</summary>
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| R
-|     2| Python    |
-|     3| Java      |
+|     1| Bash      |
+|     2| R         |
+|     3| Python    |
+|     4| HTML      |
+|     5| SQL       |
+|     6| Perl      |
+|     7| MATLAB    |
+|     8| Java      |
+|     9| C++       |
 
 </details>
 
