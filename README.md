@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/classymagpie/classymagpie/blob/main/TailTip_Darkmode.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/classymagpie/classymagpie/blob/main/TailTip_Darkmode.png">
+ <img alt="Welcome to my GitHub" src="YOUR-DEFAULT-IMAGE">
 </picture>
 <!--
 **classymagpie/classymagpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
