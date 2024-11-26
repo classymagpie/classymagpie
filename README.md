@@ -6,7 +6,7 @@
 
 ## About me
 
-Hi, I'm Porfirio, and this is my GitHub page. I'm new to GitHub and figuring out how things work. I've uploaded some scripts concerning bioinformatics (see DMD-3CHIPSEQ repo), but I'm interested in learning more about coding languages in general, so I am creating an "About me" readme.md page to get in some practice. I hope you like it and perhaps get to know me a little along the way. 
+Hi, I'm Porfirio, and this is my GitHub page. I recently defended my dissertation and am currently on the Job Hunt. I'm new to GitHub and figuring out how things work. I've uploaded some scripts concerning bioinformatics (see DMD-3CHIPSEQ repo), but I'm interested in learning more about coding languages, so I am creating an "About me" _readme.md_ page to get in some practice. I hope you like it and perhaps get to know me a little along the way. I'm open to collaborative projects and learning more, please feel free to contact me! 
 
 <!--
 **classymagpie/classymagpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
