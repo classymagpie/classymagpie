@@ -28,6 +28,13 @@ Hi, I'm Porfirio, and this is my GitHub page. I recently defended my dissertatio
 
 </details>
 
+---
+
+>There's a one-degree difference between hot water and steam; TURN IT UP A LITTLE BIT!
+
+— eRok the American Shorthair Tabby
+
+<!-- TO DO: add more details about me later -->
 <!--
 **classymagpie/classymagpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
