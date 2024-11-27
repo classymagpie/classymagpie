@@ -43,6 +43,11 @@ Hi, I'm Porfirio, and this is my GitHub page. I recently defended my Ph.D. disse
   </blockquote>
 </td>
 
+</table>
+
+## About me in the context of Biological Research 🔬
+
+
 
 
 <!-- TO DO: add more details about me later -->
