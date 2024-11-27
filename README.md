@@ -33,21 +33,15 @@ Hi, I'm Porfirio, and this is my GitHub page. I recently defended my dissertatio
 </details> 
 
 </td>
-<td valign="top" >
-
----
-
-
-<img src="erok.png" width="50%" alt="Description of image">
-
->There's a one-degree difference between hot water and steam; TURN IT UP A LITTLE BIT!
->
->— eRok the American Shorthair Tabby
-
+<td align="center">
+  <hr width="50%">
+  <img src="erok.png" width="50%" alt="an elegant American shorthair tabby cat, eRok">
+  <br><br>
+  <blockquote>
+    <p>There's a one-degree difference between hot water and steam; TURN IT UP A LITTLE BIT!</p>
+    <p>— eRok the American Shorthair Tabby</p>
+  </blockquote>
 </td>
-</tr>
-</table>
-
 
 
 
