@@ -33,9 +33,12 @@ Hi, I'm Porfirio, and this is my GitHub page. I recently defended my dissertatio
 </details> 
 
 </td>
-<td valign="top">
+<td valign="top" >
 
 ---
+
+
+<img src="erok.png" width="50%" alt="Description of image">
 
 >There's a one-degree difference between hot water and steam; TURN IT UP A LITTLE BIT!
 >
